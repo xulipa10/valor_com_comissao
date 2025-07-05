@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.key.tools.valorcomporcentagem"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.key.tools.valorcomporcentagem"
